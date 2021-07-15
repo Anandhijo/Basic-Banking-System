@@ -4,5 +4,8 @@
 
 - I have create a simple  dynamic website.
 - Flow Of This Task : Homepage > View All Customers > Select and View One Customer > Transfer Money > Select Customer to transfer to > View All Customers.
-- Tech Stack I  have used is PHP,CSS,BOOTSTRAP and for database SQL.
+- Tech Stack I  have used  for 
+* Frontend: HTML,JS,CSS,BOOTSTRAP 
+* Backend : PHP
+* and for database :MY SQL.
 - It mainly used for transfer of money between multiple users.
